@@ -1,16 +1,25 @@
-# events
+# 🎫 Event Ticketing App
 
-A new Flutter project.
+A Flutter application for viewing events and purchasing tickets. Built with `Provider` for state management and uses a clean carousel UI to display upcoming events.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK (usually included with Flutter)
+- Android Studio, VS Code, or any other preferred IDE
+
+---
+
+### 📦 Install Dependencies
+
+Run the following command in the root directory of the project:
+
+```bash
+flutter pub get
+
